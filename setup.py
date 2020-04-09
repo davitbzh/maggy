@@ -15,7 +15,7 @@ setup(
     ],
     extras_require={
         'pydoop': ['pydoop'],
-        'tf': ['tensorflow==1.14.0'],
+        'tf': ['tensorflow==2.2.0_rc2'],
         'docs': [
             'sphinx==1.8.5',
             'sphinx-autobuild',
